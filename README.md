@@ -12,3 +12,8 @@ Additional questions answers:
   3. 
   4. There's quite a bit of iterations over various collections which may be resource-consuming. The algorithm is based on probabilities provided by user so it          suposse to be more strictly determinted to receive genuine results. Perhaps there are more factors to be considered. 
   5. Iterating the diseases to find relevant based on provided sex and then another iteration to filter symptoms possibly may be done as one stage.
+
+
+
+Run:
+mvn clean spring-boot:run
